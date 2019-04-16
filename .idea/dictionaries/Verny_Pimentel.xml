@@ -2,6 +2,36 @@
   <dictionary name="Verny Pimentel">
     <words>
       <w>clearfix</w>
+      <w>connectionstring</w>
+      <w>cristo</w>
+      <w>dbname</w>
+      <w>firstname</w>
+      <w>geocoder</w>
+      <w>geosearch</w>
+      <w>getconn</w>
+      <w>gslimit</w>
+      <w>gunicorn</w>
+      <w>instagram</w>
+      <w>itsdangerous</w>
+      <w>jinja</w>
+      <w>lastname</w>
+      <w>mydatabase</w>
+      <w>myflaskapp</w>
+      <w>myflaskproject</w>
+      <w>myflaskprojectdb</w>
+      <w>mypool</w>
+      <w>newuser</w>
+      <w>openstreetmap</w>
+      <w>portalocker</w>
+      <w>postgresql</w>
+      <w>pwdhash</w>
+      <w>pypiwin</w>
+      <w>pywin</w>
+      <w>sqlalchemy</w>
+      <w>tablename</w>
+      <w>werkzeug</w>
+      <w>wtforms</w>
+      <w>yoteamo</w>
     </words>
   </dictionary>
 </component>
