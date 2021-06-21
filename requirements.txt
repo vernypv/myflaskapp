@@ -5,7 +5,7 @@ Flask==1.0.2
 Flask-Gunicorn==0.1.1
 gunicorn==19.9.0
 itsdangerous==0.24
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.0
 portalocker==1.2.1
 psycopg2==2.7.5
