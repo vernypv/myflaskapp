@@ -10,7 +10,7 @@ MarkupSafe==1.0
 portalocker==1.2.1
 psycopg2==2.7.5
 pypiwin32==223
-pywin32==223
+pywin32==301
 requirements==0.1
 Werkzeug==0.15.3
 wtforms
