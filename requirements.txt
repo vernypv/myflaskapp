@@ -12,6 +12,6 @@ psycopg2==2.7.5
 pypiwin32==223
 pywin32==223
 requirements==0.1
-Werkzeug==0.15.3
+Werkzeug==0.15.5
 wtforms
 pool
